@@ -1,0 +1,3 @@
+Gained an 95.2% accuracy results by involving Data augmentation and segmentation techniques to the existing medical image analysis with standard GAN algorithm- GANs help with data shortage and class imbalance in endoscopic datasets by producing realistic synthetic pictures.To increase the efficiency of medical data, our approach also applies GAN-based augmentation to several CNN models to confirm the performance gains.
+To increase the efficiency of medical data, our approach also applies GAN-based augmentation to several CNN models to confirm the performance gains.
+Gained an IoU accuracy of 0.8742 %
